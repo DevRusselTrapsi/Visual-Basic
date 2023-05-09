@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.exe.config
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.exe
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.pdb
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.xml
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.Form1.resources
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.Resources.resources
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.exe
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.xml
+C:\Users\user\source\repos\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.pdb
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.exe.config
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.exe
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.pdb
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\bin\Debug\Prelim_Exam.xml
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbprojAssemblyReference.cache
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.Form1.resources
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.Resources.resources
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbproj.GenerateResource.cache
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.exe
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.xml
+D:\Visual Basic\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim Exam(Mathematical Area)\Prelim_Exam\Prelim_Exam\obj\Debug\Prelim_Exam.pdb
